@@ -14,13 +14,8 @@ A social media application built using the MERN stack, where users can share the
 - Hash encryption of passwords
 - Access management with JWT tokens
 
-## Demo 📸
-![image](https://github.com/ananyap18/Journal/assets/71277914/4de1023e-f916-4d34-9f53-5142a05a670a) <br>
-![image](https://github.com/ananyap18/Journal/assets/71277914/5e187be8-6461-4425-840c-a1c20b94d383) <br>
-![image](https://github.com/ananyap18/Journal/assets/71277914/5af2f663-f9b0-4a4a-af63-5d511c87d2f0) <br>
-![image](https://github.com/ananyap18/Journal/assets/71277914/fa91f243-a260-4be3-8afb-659da34d55e5) <br>
-![image](https://github.com/ananyap18/Journal/assets/71277914/e4a2f54d-7970-4df5-9a93-438a614d4b15) <br>
-![image](https://github.com/ananyap18/Journal/assets/71277914/2ae0b559-7883-4cb9-82d2-7639d980e24d) <br>
+
+
 
 ## Technology Stack 🛠️
 
