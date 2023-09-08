@@ -43,7 +43,7 @@ A social media application built using the MERN stack, where users can share the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ananyap18/Journal.git
+  
    cd social-media-web-app
    ```
 2. Install the dependencies for both backend and frontend:
